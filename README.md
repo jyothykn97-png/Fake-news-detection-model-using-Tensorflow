@@ -1,4 +1,4 @@
-# Fake-news-detection-model-using-Tensorflow
+# Fake news detection model using Tensorflow
 
 ## Description 
 Fake news detection is a machine learning–based project that aims to classify news articles as Real or Fake using Natural Language Processing (NLP) and TensorFlow.
