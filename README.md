@@ -23,7 +23,7 @@ The dataset consists of news articles with the following fields:
 - Text – Full news article content
 - Label –
 0 → Real News
-1 → Fake News
+1 → Fake News<br>
 The dataset is preprocessed to remove noise such as punctuation, stopwords, and unnecessary symbols.
 
 --------
