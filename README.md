@@ -20,8 +20,8 @@ This project uses deep learning techniques to automatically detect fake news, he
 ## Dataset Description
 
 The dataset consists of news articles with the following fields:
-Text – Full news article content
-Label –
+- Text – Full news article content
+- Label –
 0 → Real News
 1 → Fake News
 The dataset is preprocessed to remove noise such as punctuation, stopwords, and unnecessary symbols.
